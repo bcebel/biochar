@@ -12,11 +12,11 @@ export default function whatssogreat() {
       <img src={smile} className="photos" alt="burning biochar" />
       <p>Everything</p>
       <ul className="parent">
-        <li>It Provides Clean Energy (biofuel & syngas) </li>
-        <li>It Sequesters C02</li>
-        <li>It Boosts Soil Quality</li>
-        <li>It is Carbon Negative</li>
-        <li>Companies can use biochar for carbon credits</li>
+        <li>It Provides Clean Energy (biofuel & syngas). </li>
+        <li>It Sequesters C02.</li>
+        <li>It Boosts Soil Quality.</li>
+        <li>It is Carbon Negative.</li>
+        <li>Companies can use biochar for carbon credits.</li>
       </ul>
     </div>
   );

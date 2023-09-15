@@ -12,12 +12,12 @@ export default function howisitmade() {
       <p>A Process called Pyrolysis!</p>
       <ul className="parent">
         <li>
-          Pyrolysis is the process of heating up wood in the absence of oxygen
+          Pyrolysis is the process of heating up wood in the absence of oxygen.
         </li>
-        <li>This will drive out the hydrogen and oxygen that is in the wood</li>
-        <li>It will leave carbon in the shape of the wood that was used</li>
-        <li>The cellular structure will remain but it will be empty cells</li>
-        <li>The hydrogen and oxygen can be used as a biofuel source later</li>
+        <li>This will drive out the hydrogen and oxygen that is in the wood.</li>
+        <li>It will leave carbon in the shape of the wood that was used.</li>
+        <li>The cellular structure will remain but it will be empty cells.</li>
+        <li>The hydrogen and oxygen can be used as a biofuel source later.</li>
       </ul>
     </div>
   );

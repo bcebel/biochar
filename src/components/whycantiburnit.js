@@ -12,7 +12,7 @@ export default function whycantiburnit() {
 
       <p>
         Because burning it would use up the carbon and put it into the
-        atmosphere and leave you with just ash
+        atmosphere and leave you with just ash.
       </p>
       <ul className="parent">
         <li>
@@ -21,7 +21,7 @@ export default function whycantiburnit() {
         </li>
         <li>
           Even if you don't burn the biomass, microbes will digest it and
-          release C02 into the air, its the same as burning
+          release C02 into the air, its the same as burning.
         </li>
       </ul>
     </div>

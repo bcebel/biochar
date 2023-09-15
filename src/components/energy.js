@@ -12,12 +12,11 @@ export default function energy() {
       <p>Take carbon out of the air for a hundred years or more.</p>
       <ul className="parent">
         <li>Biochar locks up carbon into an inert solid.</li>
-        <li>Your source material can be from waste/scrap material</li>
+        <li>Your source material can be from waste/scrap material.</li>
         <li>
           Or you could grow a crop like hemp for biomass to convert to pure
-          hydrogen, oxygen and carbon
+          hydrogen, oxygen and carbon.
         </li>
-        <li>Dirty hippies</li>
       </ul>
     </div>
   );
