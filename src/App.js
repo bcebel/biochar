@@ -7,15 +7,14 @@ import Whycantiburnit from './components/whycantiburnit';
 import Whyisbiochargoodforsoil from './components/whyisbiochargoodforsoil';
 import Whatssogreat from './components/whatssogreataboutit';
 import Chatgpt from './components/chatgpt';
+import Products from './components/products';
 function App() {
   return (
     <div className="App">
-
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           <code>This is biochar.</code>
-        
         </p>
       </header>
       <div className="biochar">
@@ -39,6 +38,9 @@ function App() {
         </div>
         <div>
           <Chatgpt />
+        </div>
+        <div>
+          <Products />
         </div>
       </div>
     </div>
