@@ -9,10 +9,10 @@ body {
   background-image: url("backgroundflame.jpg");
   background-position:center;
   background-repeat: no-repeat;
-  background-size: 150em;
+background-size: 150em;
   border-radius: 1em;
   margin: 1em;
-
+  
 }
 
 code {
