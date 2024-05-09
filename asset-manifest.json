@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/biochar/static/css/main.7a930774.css",
-    "main.js": "/biochar/static/js/main.38e27793.js",
+    "main.js": "/biochar/static/js/main.90e8873c.js",
     "static/js/787.b8bb5db8.chunk.js": "/biochar/static/js/787.b8bb5db8.chunk.js",
     "static/media/backgroundflame.jpg": "/biochar/static/media/backgroundflame.f7c4f4efc5c09d5769e6.jpg",
     "static/media/soil.jpeg": "/biochar/static/media/soil.f226ddc10cb92c2cddf3.jpeg",
     "static/media/ai.jpeg": "/biochar/static/media/ai.521633a2969e3ce6fe84.jpeg",
     "static/media/biochar.jpeg": "/biochar/static/media/biochar.de745b707ebb9fe07bd2.jpeg",
     "static/media/lab.jpeg": "/biochar/static/media/lab.493e9a83b8263656d6b8.jpeg",
+    "static/media/bag.jpg": "/biochar/static/media/bag.f2fb89923c9452a669cc.jpg",
     "static/media/ashtray.jpeg": "/biochar/static/media/ashtray.e60c7fccb23707200b7d.jpeg",
     "static/media/negative.jpeg": "/biochar/static/media/negative.61a7852b9535d4c3f16e.jpeg",
-    "static/media/humichar.jpg": "/biochar/static/media/humichar.68404560986cc898d4c3.jpg",
     "static/media/coal2.jpeg": "/biochar/static/media/coal2.4965fbe7367c0952e49b.jpeg",
     "static/media/smile.jpeg": "/biochar/static/media/smile.2d3963d53d74312b51ce.jpeg",
     "index.html": "/biochar/index.html",
     "main.7a930774.css.map": "/biochar/static/css/main.7a930774.css.map",
-    "main.38e27793.js.map": "/biochar/static/js/main.38e27793.js.map",
+    "main.90e8873c.js.map": "/biochar/static/js/main.90e8873c.js.map",
     "787.b8bb5db8.chunk.js.map": "/biochar/static/js/787.b8bb5db8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7a930774.css",
-    "static/js/main.38e27793.js"
+    "static/js/main.90e8873c.js"
   ]
 }
